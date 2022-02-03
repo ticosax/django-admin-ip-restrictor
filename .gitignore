@@ -41,6 +41,7 @@ coverage.xml
 env/
 venv/
 ENV/
+.python-version
 
 # Coverage directory used by tools like istanbul
 coverage
